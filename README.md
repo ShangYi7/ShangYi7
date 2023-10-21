@@ -18,12 +18,7 @@ I'm Shang Yi , currently a Dept. of Computer Science student
     <img alt="PC" src="https://img.shields.io/badge/PC%20-5391FE?logo=pcgamingwiki&logoColor=ffffff">
     <img alt="Fivem" src="https://img.shields.io/badge/Fivem%20%20-5391FE?logo=Fivem&logoColor=ffffff">
     <img alt="C Sharp" src="https://img.shields.io/badge/C%23-C%23?logo=C%20Sharp&logoColor=ffffff&color=5391FE">
-    <!--<a href="https://github.com/ShangYi7/discord_bot_CANNABIS" target="_blank"> --><img alt="Static Badge" src="https://img.shields.io/badge/Discord%20bot-5391FE?logo=Discord&logoColor=ffffff">
-
-</a>
-
-
-
+    <!--<a href="https://github.com/ShangYi7/discord_bot_CANNABIS" target="_blank"> --><img alt="Static Badge" src="https://img.shields.io/badge/Discord%20bot-5391FE?logo=Discord&logoColor=ffffff"></a>
 </p>
 
 <p align="center">
