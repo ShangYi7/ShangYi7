@@ -31,5 +31,5 @@ I'm Shang Yi , currently a Dept. of Computer Science student
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Good+people+havea+safe+life&author=ShangYi)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ShangYi7&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ShangYi7&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in)
 <!--produce ShangYi7--!>
