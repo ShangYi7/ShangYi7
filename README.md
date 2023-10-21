@@ -38,4 +38,4 @@ I'm Shang Yi , currently a Dept. of Computer Science student
 
 ![Shang Yi GitHub stats](https://github-readme-stats.vercel.app/api?username=ShangYi7&show_icons=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShangYi7&layout=compact&theme=vue-dark)](https://github.com/ShangYi7/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShangYi7&repo=discord_bot_CANNABIS&theme=vue-dark)](https://github.com/ShangYi7/discord_bot_CANNABIS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShangYi7&repo=DiscordBot-CANNABIS&theme=vue-dark)](https://github.com/ShangYi7/discord_bot_CANNABIS)
