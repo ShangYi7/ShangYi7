@@ -8,6 +8,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+page!;I+am+a+high+school+student!" />
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <p align="center">
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=ShangYi7&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=ShangYi7&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
@@ -23,9 +25,6 @@
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,matlab,md,sqlite&theme=light" />
 </p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <!-- ## 🌐 Socials:
 
