@@ -5,8 +5,7 @@
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Chocolate Classical Sans
-&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=歡迎來到我的+GitHub+頁面!;我是一個高中生!" />
+<img src="https://readme-typing-svg.demolab.com?font=Chocolate Classical Sans&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=歡迎來到我的+GitHub+頁面!;我是一個高中生!" />
 </p>
 
 <p align="center"><a href="README.md">🌏 English README</a></p>
