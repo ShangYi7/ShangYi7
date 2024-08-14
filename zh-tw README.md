@@ -12,7 +12,7 @@
 
 <p align="center">
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=ShangYi7&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs&locale=zh-tw" />
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=ShangYi7&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true&locale=zh-tw" />
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=ShangYi7&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true&locale=zh_Hant" />
 <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
