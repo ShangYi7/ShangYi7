@@ -20,8 +20,9 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ShangYi7&theme=transparent&hide_border=true&layout=compact&langs_count=22&range=all_time" />
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShangYi7&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-<br/>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShangYi7&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<br/> -->
+<figure><embed src="https://wakatime.com/share/@ShangYi7/03f4d1a6-767a-41d0-ac5d-5e9f9b4b9c44.svg"></embed></figure>
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cs,html,css,md,lua,powershell,notion,discord,visualstudio,vscode,linux,windows&theme=dark" />
 FPGA,verilog,VHDL
