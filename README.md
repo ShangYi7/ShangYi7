@@ -18,10 +18,9 @@
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ShangYi7&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats-theta-lime-61.vercel.app/api/wakatime?username=ShangYi7&theme=transparent&hide_border=true&layout=compact&langs_count=22&range=all_time" />
+<img align="center" src="https://github-readme-stats-theta-lime-61.vercel.app/api/wakatime?username=ShangYi7&theme=transparent&hide_border=true&layout=compact&langs_count=22&range=all_time&count-private=true" />
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats-theta-lime-61.vercel.app/api/top-langs/?username=ShangYi7&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-<!-- <img align="center" src="https://wakatime.com/share/@ShangYi7/03f4d1a6-767a-41d0-ac5d-5e9f9b4b9c44.svg" /> -->
+<img align="center" src="https://github-readme-stats-theta-lime-61.vercel.app/api/top-langs/?username=ShangYi7&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6&count-private=true" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cs,html,css,md,lua,powershell,notion,discord,visualstudio,vscode,linux,windows&theme=dark" />
