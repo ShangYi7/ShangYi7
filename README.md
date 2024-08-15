@@ -15,7 +15,7 @@
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=ShangYi7&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ShangYi7&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ShangYi7&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph&count-private=true" />
 <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats-theta-lime-61.vercel.app/api/wakatime?username=ShangYi7&theme=transparent&hide_border=true&layout=compact&langs_count=22&range=all_time&count-private=true" />
