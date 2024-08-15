@@ -22,6 +22,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats-theta-lime-61.vercel.app/api/top-langs/?username=ShangYi7&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6&count-private=true" />
 <br/>
+
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cs,html,css,md,lua,powershell,notion,discord,visualstudio,vscode,linux,windows&theme=dark" />
 FPGA,verilog,VHDL
