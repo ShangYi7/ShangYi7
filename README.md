@@ -31,7 +31,7 @@ FPGA,verilog,VHDL
 <a href="https://discord.com/users/488001475906371586"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
 <a href="https://instagram.com/https://www.instagram.com/shang_yi6/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
 <a href="https://www.taiwan.gov.tw"><img src="https://img.shields.io/badge/Taiwan-Taiwan?labelColor=%23CC0000&color=%23CC0000" /></a>
-<a href="https://wakatime.com/badge/user/cff26018-a8c8-472c-a69a-eed8c4fea7f9/project/14854ac8-4608-4763-a92c-853cb1f44533"><img src="https://wakatime.com/badge/user/cff26018-a8c8-472c-a69a-eed8c4fea7f9/project/14854ac8-4608-4763-a92c-853cb1f44533.svg" alt="wakatime"></a>
+<a href="https://wakatime.com/@cff26018-a8c8-472c-a69a-eed8c4fea7f9"><img src="https://wakatime.com/badge/user/cff26018-a8c8-472c-a69a-eed8c4fea7f9.svg" alt="Total time coded since Aug 13 2024" alt="wakatime"></a>
 </p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
