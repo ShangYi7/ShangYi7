@@ -11,7 +11,7 @@
 <p align="center"><a href="README.md">🌏 English README</a></p>
 
 <p align="center">
-<img align="center" width="400" src="https://github-readme-stats-theta-lime-61.vercel.app/api?username=ShangYi7&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs&locale=zh-tw" />
+<img align="center" width="400" src="https://github-readme-stats-five-ashy-69.vercel.app/api?username=ShangYi7&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs&locale=zh-tw" />
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=ShangYi7&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true&locale=zh_Hant" />
 <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
@@ -19,9 +19,9 @@
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ShangYi7&theme=github-compact&hide_border=true&area=true&custom_title=貢獻圖" />
 <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats-theta-lime-61.vercel.app/api/wakatime?username=ShangYi7&theme=transparent&hide_border=true&layout=compact&langs_count=22&range=all_time&locale=zh-tw" />
+<img align="center" src="https://github-readme-stats-five-ashy-69.vercel.app/api/wakatime?username=ShangYi7&theme=transparent&hide_border=true&layout=compact&langs_count=22&range=all_time&locale=zh-tw" />
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats-theta-lime-61.vercel.app/api/top-langs/?username=ShangYi7&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=10&locale=zh-tw" />
+<img align="center" src="https://github-readme-stats-five-ashy-69.vercel.app/api/top-langs/?username=ShangYi7&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=10&locale=zh-tw" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cs,html,css,md,lua,powershell,notion,discord,visualstudio,vscode,linux,windows&theme=dark" />
